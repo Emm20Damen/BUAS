@@ -6,12 +6,12 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif, "Filmotype Potomac";
 	color: #FFFFFF;
 	background-color: #E7CFDA;
 }
 .custom-heading {
-    font-family: 'Arial', sans-serif; /* Change the font */
+    font-family: Filmotype Potomac; /* Change the font */
     color: #303582; /* Change the color */
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */

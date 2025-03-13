@@ -10,7 +10,10 @@ body {
 	color: #FFFFFF;
 	background-color: #E7CFDA;
 }
-
+.custom-heading {
+    font-family: 'Arial', sans-serif; /* Change the font */
+    color: #303582; /* Change the color */
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
